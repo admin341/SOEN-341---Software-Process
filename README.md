@@ -15,7 +15,7 @@ Yasaman Fahm  - Yasfahm
 Hey
 
 Technologies:
-Jango 
+dJango 
 Pyton 
 Html, CSS, JAVAScript
 =======
