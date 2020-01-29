@@ -1,6 +1,7 @@
 # SOEN-341---Software-Process
-Mohamed Amine Kihal - instamine
 Amneet Singh - amneet270
-Virthura ..... - Vithura14
-Nouj .... -Nouj
-Yas... Fahm  - Yasfahm
+Mohamed Amine Kihal - instamine
+Muhamad Nurie - nuzurie
+Neerujah Ledchumanan - nouj
+Vithura Muthiah - vithura14
+Yasaman Fahm  - Yasfahm
